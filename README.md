@@ -1,5 +1,6 @@
 # Hacktoberfest-2019
 https://hacktoberfest.digitalocean.com/
+Submit your pull request here for Hactoberfest-2k19 in any language you prefer, if language folder not present, create one as a part of it, after script add your name and GitHub profile into Contributors.md file.
 
 Hacktoberfest is a month long virtual festival event to celebrate open source contributions presented by Digital Ocean and DEV. It is the easiest way to get into open source!
 
