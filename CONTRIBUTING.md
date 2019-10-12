@@ -13,6 +13,8 @@
 ### Hajro Ahmetas
 - Github: https://github.com/hajro92
 
+### Wellington Vitor
+- Github: https://github.com/wellingtonvitor
 
 
 
