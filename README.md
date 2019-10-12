@@ -3,6 +3,8 @@ https://hacktoberfest.digitalocean.com/
 
 Hacktoberfest is a month long virtual festival event to celebrate open source contributions presented by Digital Ocean and DEV. It is the easiest way to get into open source!
 
+![image here](https://github.com/Shreyans13/Hacktoberfest-2019/blob/master/hacktober%20fest.png)
+
 # Event details
 Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
