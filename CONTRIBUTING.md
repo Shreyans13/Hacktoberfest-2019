@@ -1,7 +1,6 @@
 # Thanks for contibuting!!!!!!!
 
-### TARUN SINGAL
-- Github: https://github.com/TARUNSINGAL1409
+
 ***
 
 ### Shreyans Jain
@@ -13,6 +12,8 @@
 ### Hajro Ahmetas
 - Github: https://github.com/hajro92
 
+### TARUN SINGAL
+- Github: https://github.com/TARUNSINGAL1409
 
 
 
