@@ -18,6 +18,9 @@
 ### Aryan Taneja
 - Github: https://github.com/aryantanny
 
+### Spas Zahariev
+- Github: https://github.com/SpasZahariev
+
 ### Wellington Vitor
 - Github: https://github.com/wellingtonvitor
 
