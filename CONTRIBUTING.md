@@ -1,7 +1,7 @@
 # Thanks for contibuting!!!!!!!
 
 ### YOUR FULL NAME
-- Github: YOUR GITHUB URL
+- Github: https://github.com/TARUNSINGAL1409
 ***
 
 ### Shreyans Jain
