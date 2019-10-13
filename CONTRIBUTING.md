@@ -12,7 +12,7 @@
 ### Hajro Ahmetas
 - Github: https://github.com/hajro92
 
-### TARUN SINGAL
+### Tarun Singal
 - Github: https://github.com/TARUNSINGAL1409
 
 ### Aryan Taneja
