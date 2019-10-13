@@ -13,6 +13,9 @@
 ### Hajro Ahmetas
 - Github: https://github.com/hajro92
 
+### Aryan Taneja
+- Github: https://github.com/aryantanny
+
 
 
 
