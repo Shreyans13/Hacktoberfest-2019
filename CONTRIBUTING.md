@@ -1,7 +1,6 @@
 # Thanks for contibuting!!!!!!!
 
-### YOUR FULL NAME
-- Github: YOUR GITHUB URL
+
 ***
 
 ### Shreyans Jain
@@ -13,12 +12,14 @@
 ### Hajro Ahmetas
 - Github: https://github.com/hajro92
 
+### Tarun Singal
+- Github: https://github.com/TARUNSINGAL1409
+
+### Aryan Taneja
+- Github: https://github.com/aryantanny
+
 ### Wellington Vitor
 - Github: https://github.com/wellingtonvitor
-
-
-
-
 
 
 
