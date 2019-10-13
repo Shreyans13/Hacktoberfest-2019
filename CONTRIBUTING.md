@@ -1,6 +1,6 @@
 # Thanks for contibuting!!!!!!!
 
-### YOUR FULL NAME
+### TARUN SINGAL
 - Github: https://github.com/TARUNSINGAL1409
 ***
 
