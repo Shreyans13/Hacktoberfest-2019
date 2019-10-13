@@ -18,7 +18,8 @@
 ### Aryan Taneja
 - Github: https://github.com/aryantanny
 
-
+### Wellington Vitor
+- Github: https://github.com/wellingtonvitor
 
 
 
