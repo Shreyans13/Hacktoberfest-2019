@@ -27,9 +27,8 @@
 ### Toshik Langade
 - Github: https://github.com/ltosh9802
 
-### Sanatt Abrol
-- Github: https://github.com/mavrk
-
+### Ashmeet
+- Github: https://github.com/99ashmeet/Hacktoberfest-2019
 
 Happy Contributing!!!!
 Happy Coding!!!
