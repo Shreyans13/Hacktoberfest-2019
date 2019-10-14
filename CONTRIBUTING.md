@@ -27,6 +27,9 @@
 ### Toshik Langade
 - Github: https://github.com/ltosh9802
 
+### Vinay Bharwani
+- Github: https://github.com/vb-vinay
+
 
 Happy Contributing!!!!
 Happy Coding!!!
