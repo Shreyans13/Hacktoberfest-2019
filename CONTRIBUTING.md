@@ -27,6 +27,9 @@
 ### Toshik Langade
 - Github: https://github.com/ltosh9802
 
+### Sanatt Abrol
+- Github: https://github.com/mavrk
+
 
 Happy Contributing!!!!
 Happy Coding!!!
