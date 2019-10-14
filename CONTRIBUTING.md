@@ -24,6 +24,8 @@
 ### Wellington Vitor
 - Github: https://github.com/wellingtonvitor
 
+### Toshik Langade
+- Github: https://github.com/ltosh9802
 
 
 Happy Contributing!!!!
