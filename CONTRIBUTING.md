@@ -27,13 +27,26 @@
 ### Toshik Langade
 - Github: https://github.com/ltosh9802
 
+### Vinay Bharwani
+- Github: https://github.com/vb-vinay
+
 ### Ashmeet
 - Github: https://github.com/99ashmeet/Hacktoberfest-2019
 
+### Faique Yusuf
+- Github: https://github.com/faiqueyusuf
+
+### Anshul Mandrelia
+- Github: https://github.com/anshulmandrelia
+
+### Sanatt Abrol
+- Github: https://github.com/mavrk
+
+### Megha Gupta
+- Github: https://github.com/Megha1209
+
 ### Dev Bhardwaj
 - Github : https://github.com/Neuron34
-
-
 
 Happy Contributing!!!!
 Happy Coding!!!
