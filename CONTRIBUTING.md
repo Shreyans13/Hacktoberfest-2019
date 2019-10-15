@@ -60,8 +60,11 @@
 ### aUniqueUser
 - Github: https://github.com/aUniqueUser
 
-### sunshine-sudo
+### Sunshine
 - Github: https://github.com/sunshine-sudo
+
+### Tanuj wagadre
+- Github: https://github.com/i-tanuj
 
 Happy Contributing!!!!
 Happy Coding!!!
