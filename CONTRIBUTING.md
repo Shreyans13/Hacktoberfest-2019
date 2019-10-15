@@ -30,7 +30,7 @@
 ### Ashmeet
 - Github: https://github.com/99ashmeet/Hacktoberfest-2019
 
-### Ashmeet
+### Faique Yusuf
 - Github: https://github.com/faiqueyusuf
 
 
