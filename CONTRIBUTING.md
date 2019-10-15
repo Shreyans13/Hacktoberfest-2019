@@ -31,7 +31,7 @@
 - Github: https://github.com/vb-vinay
 
 ### Ashmeet
-- Github: https://github.com/99ashmeet/Hacktoberfest-2019
+- Github: https://github.com/99ashmeet
 
 ### Faique Yusuf
 - Github: https://github.com/faiqueyusuf
@@ -46,7 +46,10 @@
 - Github: https://github.com/Megha1209
 
 ### Dev Bhardwaj
-- Github : https://github.com/Neuron34
+- Github: https://github.com/Neuron34
+
+### Chan
+- Github: https://github.com/exceptiionChan
 
 Happy Contributing!!!!
 Happy Coding!!!
