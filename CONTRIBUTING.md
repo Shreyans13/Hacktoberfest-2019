@@ -30,6 +30,12 @@
 ### Vinay Bharwani
 - Github: https://github.com/vb-vinay
 
+### Ashmeet
+- Github: https://github.com/99ashmeet/Hacktoberfest-2019
+
+### Faique Yusuf
+- Github: https://github.com/faiqueyusuf
+
 
 Happy Contributing!!!!
 Happy Coding!!!
