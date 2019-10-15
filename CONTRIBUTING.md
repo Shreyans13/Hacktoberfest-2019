@@ -9,9 +9,6 @@
 ### Suraj Singh
 - Github: https://github.com/suraj7086
 
-### Tanuj wagadre
-- Github: https://github.com/i-tanuj
-
 ### Hajro Ahmetas
 - Github: https://github.com/hajro92
 
@@ -62,6 +59,9 @@
 
 ### Sunshine
 - Github: https://github.com/sunshine-sudo
+
+### Tanuj wagadre
+- Github: https://github.com/i-tanuj
 
 Happy Contributing!!!!
 Happy Coding!!!
