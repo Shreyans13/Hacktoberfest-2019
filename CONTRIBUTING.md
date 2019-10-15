@@ -33,6 +33,15 @@
 ### Faique Yusuf
 - Github: https://github.com/faiqueyusuf
 
+### Anshul Mandrelia
+- Github: https://github.com/anshulmandrelia
+
+### Sanatt Abrol
+- Github: https://github.com/mavrk
+
+### Megha Gupta
+- Github: https://github.com/Megha1209
+
 
 Happy Contributing!!!!
 Happy Coding!!!
