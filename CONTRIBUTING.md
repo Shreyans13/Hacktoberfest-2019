@@ -54,5 +54,8 @@
 ### Namanjeet
 - Github: https://github.com/OfficialNMN
 
+### Gurpreet Singh
+- Github: https://github.com/GurpreetSingh2000
+
 Happy Contributing!!!!
 Happy Coding!!!
