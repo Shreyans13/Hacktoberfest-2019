@@ -45,6 +45,8 @@
 ### Megha Gupta
 - Github: https://github.com/Megha1209
 
+### Dev Bhardwaj
+- Github : https://github.com/Neuron34
 
 Happy Contributing!!!!
 Happy Coding!!!
