@@ -9,6 +9,9 @@
 ### Suraj Singh
 - Github: https://github.com/suraj7086
 
+### Tanuj wagadre
+- Github: https://github.com/i-tanuj
+
 ### Hajro Ahmetas
 - Github: https://github.com/hajro92
 
