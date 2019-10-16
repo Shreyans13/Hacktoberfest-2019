@@ -72,5 +72,8 @@
 ### Adarsh Kumar
 - Github: https://github.com/Niekon01
 
+### Quy Tran Minh
+- Github: https://github.com/quytm
+
 Happy Contributing!!!!
 Happy Coding!!!
