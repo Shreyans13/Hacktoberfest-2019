@@ -1,0 +1,95 @@
+[33m360226e[m[33m ([m[1;36mHEAD -> [m[1;32mfind-mac-address[m[33m)[m Program finding mac-address and ip address of the system
+[33m9a86abd[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m Merge pull request #28 from Niekon01/master
+[33m9ad4a33[m Update CONTRIBUTING.md
+[33m006c636[m Merge pull request #27 from sciencepal/master
+[33mf68c62d[m Merge pull request #26 from aUniqueUser/master
+[33mfface6f[m Update databaseConnection.php
+[33mde8d7a9[m Update databaseConnection.php
+[33m95bb9b9[m Create databaseConnection.php
+[33m2c5ef19[m Update Dynamic Input linkedList.cpp
+[33m29029ca[m Dynamic Linked List
+[33mb853666[m Added Binary Indexed Tree
+[33m59d3cb4[m Merge branch 'master' into master
+[33meb05320[m Update CONTRIBUTING.md
+[33m0315127[m Merge pull request #24 from i-tanuj/master
+[33m14aed55[m Update CONTRIBUTING.md
+[33mb02ed19[m Added Contributors
+[33mb932aaa[m Merge pull request #25 from sunshine-sudo/master
+[33m9a82b67[m My project.
+[33m7316507[m commit
+[33mc61e104[m change
+[33m60fe107[m Merge pull request #23 from GurpreetSingh2000/patch-1
+[33m24e506a[m Update CONTRIBUTING.md
+[33mfef74ba[m Rename Algorithms/JAVA/Sorting/MergeSortByNMN.py to Algorithms/Phython/Sorting/MergeSortByNMN.py
+[33madfd127[m Update CONTRIBUTING.md
+[33m4d83fb9[m Merge pull request #22 from OfficialNMN/patch-1
+[33m86cf09b[m Create MergeSortByNMN.py
+[33m23ea3bb[m Update CONTRIBUTING.md
+[33mfec81e4[m Merge pull request #21 from exceptiionChan/patch-1
+[33ma4308db[m DLL (Doubly Linked List)
+[33m5258baa[m Rename EncrptionString.java to Algorithms/JAVA/EncrptionString.java
+[33m7fd8bd7[m Merge pull request #14 from Neuron34/Contribute
+[33mb35135b[m Merge branch 'master' into Contribute
+[33mabda2ec[m Merge pull request #15 from vb-vinay/master
+[33m18f7d85[m Update CONTRIBUTING.md
+[33m97ff8ea[m Merge pull request #17 from 35601/master
+[33mf4bf920[m Merge pull request #13 from Megha1209/master
+[33mbcd81e6[m Merge pull request #16 from mavrk/master
+[33mbe7a62f[m Merge pull request #19 from anshulmandrelia/master
+[33m0ad7827[m Linked List program added
+[33mc61f7f2[m resolved merge conflicts
+[33m2628c8e[m Create EncrptionString.java
+[33m6d4a42b[m Merge pull request #18 from faiqueyusuf/master
+[33m0f1a12f[m Merge branch 'master' into Contribute
+[33m34f096d[m Update CONTRIBUTING.md
+[33m48b1f67[m Update CONTRIBUTING.md
+[33m899b774[m Heap sort by Dev Bhardwaj
+[33ma44c163[m Merge branch 'master' into master
+[33m5c167a8[m 35601
+[33m965dad1[m Update CONTRIBUTING.md
+[33mef78733[m Add graph folder and Bellman Ford Algo
+[33m170f432[m Added Vinay Bharwani to the Contributing file
+[33m86d1ede[m added my github Profile link
+[33mdae762c[m Insertion Sort
+[33m71236e3[m Merge pull request #9 from ltosh9802/master
+[33mc9668ca[m Merge pull request #11 from SpasZahariev/BreadthFirstSearch
+[33m0d4b374[m Merge pull request #12 from SpasZahariev/patch-1
+[33m09fea88[m updated with my name
+[33m16e1506[m added a breadth first search example
+[33m177cc37[m Merge branch 'master' into master
+[33m830f88a[m Merge pull request #10 from wellingtonvitor/master
+[33ma3d7141[m Merge branch 'master' into master
+[33m060f823[m Update CONTRIBUTING.md
+[33mf4b978f[m data
+[33md0ad0da[m Added C implementation of Queue using Arrays
+[33m0b1e337[m Update CONTRIBUTING.md
+[33ma2116da[m Update CONTRIBUTING.md
+[33ma75d5e3[m Merge pull request #8 from aryantanny/master
+[33mf63f27d[m Merge branch 'master' into master
+[33m15fe496[m Update CONTRIBUTING.md
+[33m1881ee7[m Update CONTRIBUTING.md
+[33m614db57[m Merge pull request #7 from TARUNSINGAL1409/master
+[33m4a64eb0[m added Exponential_Search
+[33mc6983ce[m update the name
+[33m7c361dc[m Added name in the list
+[33mf497538[m Merge pull request #6 from 99ashmeet/master
+[33m03c16a0[m Merge pull request #5 from TARUNSINGAL1409/master
+[33m031b3e0[m Heap Sort Algorithm.
+[33m42ca55e[m Radix Sort
+[33m39511b1[m my pr
+[33m75d0480[m Merge pull request #3 from hajro92/master
+[33mf76c8b7[m Fix typos
+[33m71f8801[m Update CONTRIBUTING.md
+[33m3f6bcab[m Update CONTRIBUTING.md
+[33mbb51f8b[m Merge pull request #2 from suraj7086/master
+[33m3ec8a1b[m Update CONTRIBUTING.md
+[33m04bc63a[m Add files via upload
+[33m650355c[m C++
+[33me0d29da[m UPDATE
+[33m1eb2c5d[m Update README.md
+[33m0fb0edb[m Update README.md
+[33me691a3b[m Update README.md
+[33m3e7ab9b[m Add files via upload
+[33m9f6bf6e[m Create CONTRIBUTING.md
+[33m5ddc190[m Update README.md
+[33mf71dec2[m Initial commit
