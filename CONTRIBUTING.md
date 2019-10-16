@@ -66,5 +66,8 @@
 ### Tanuj wagadre
 - Github: https://github.com/i-tanuj
 
+### Aditya Pal
+- Github: https://github.com/sciencepal
+
 Happy Contributing!!!!
 Happy Coding!!!
