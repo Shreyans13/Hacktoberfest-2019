@@ -1,7 +1,7 @@
 /*
-
-This file can be downloaded and with few changes, people can easily connect to a MySQL database
-
+*
+* This file can be downloaded and with few changes, people can easily and safely connect to a MySQL database
+*
 */
 
 <?php
