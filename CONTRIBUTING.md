@@ -72,5 +72,8 @@
 ### Adarsh Kumar
 - Github: https://github.com/Niekon01
 
+### Anand Bhagwat
+- Github: https://github.com/anandbhagwat
+
 Happy Contributing!!!!
 Happy Coding!!!
