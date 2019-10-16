@@ -57,6 +57,9 @@
 ### Gurpreet Singh
 - Github: https://github.com/GurpreetSingh2000
 
+### aUniqueUser
+- Github: https://github.com/aUniqueUser
+
 ### Sunshine
 - Github: https://github.com/sunshine-sudo
 
