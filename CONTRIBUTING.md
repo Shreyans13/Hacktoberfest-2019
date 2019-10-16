@@ -69,5 +69,8 @@
 ### Aditya Pal
 - Github: https://github.com/sciencepal
 
+### Adarsh Kumar
+- Github: https://github.com/Niekon01
+
 Happy Contributing!!!!
 Happy Coding!!!
