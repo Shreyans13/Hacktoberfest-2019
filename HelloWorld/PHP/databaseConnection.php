@@ -22,3 +22,8 @@ else {
   echo "Connection could not be established.");
   exit();
 }
+
+/*
+use $con to make database query
+Eg: mysqli_query($con, "SELECT * FROM user");
+*/
