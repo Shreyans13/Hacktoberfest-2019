@@ -102,5 +102,8 @@
 ### Danushka
 - Github: https://github.com/Danushka2
 
+### Dinuka 
+- Github: https://github.com/Dinukashameera
+
 Happy Contributing!!!!
 Happy Coding!!!
