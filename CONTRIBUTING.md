@@ -94,10 +94,13 @@
 - Github: https://github.com/Himanshu-1997
 
 ### Sagar Babalsure
--Github: https://github.com/sagarbabalsure
+- Github: https://github.com/sagarbabalsure
 
 ### Himanshu kumar
--Github: https://github.com/Himanshu-1997
+- Github: https://github.com/Himanshu-1997
+
+### Danushka
+- Github: https://github.com/Danushka2
 
 Happy Contributing!!!!
 Happy Coding!!!
