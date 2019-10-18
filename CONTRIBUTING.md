@@ -51,5 +51,8 @@
 ### Chan
 - Github: https://github.com/exceptiionChan
 
+### Namanjeet Singh
+- Github: https://github.com/OfficialNMN
+
 Happy Contributing!!!!
 Happy Coding!!!
