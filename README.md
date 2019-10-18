@@ -1,6 +1,8 @@
 # Hacktoberfest-2019
 https://hacktoberfest.digitalocean.com/
 
+#this repo will not be counted for hacktoberfest 2019.
+
 ## How to contribute
 Submit your pull request here for Hacktoberfest-2k19 in any language you prefer, if language folder not present, create one as a part of it, after script add your name and GitHub profile into Contributors.md file.
 
