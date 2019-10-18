@@ -1,0 +1,78 @@
+package linkedClass;
+
+class LinkX
+{
+	public int iData;
+	public LinkX next;
+	
+	
+	LinkX(int iData)
+	{
+		this.iData = iData;
+		next = null;
+	}
+	
+	public void display() 
+	{
+		System.out.println(iData);
+	}
+}
+
+class linkedList
+{
+	private LinkX first;
+	public linkedList() {
+		first = null;
+	}
+	
+	public void insertFirst(int id)
+	{
+		LinkX newLink = new LinkX(id);
+		newLink.next = first;
+		first = newLink;
+	}
+	
+	public LinkX deleteFirst() {
+		LinkX temp = first;
+		first = first.next;
+		return temp;
+		
+	}
+	
+	public LinkX find(int key)
+	{
+		LinkX current = first;
+		while(current != null) 
+		{
+			if(current.iData == key)
+				return current;
+			
+			current = current.next;
+		}
+		return null;
+	}
+	
+	
+}
+
+
+
+public class Link {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		linkedList list = new linkedList();
+		list.insertFirst(20);
+		list.insertFirst(220);
+		list.insertFirst(21);
+		list.insertFirst(56);
+		list.deleteFirst();
+		list.deleteFirst();
+		list.deleteFirst();
+		System.out.println(list.find(56));
+		
+		
+	}
+
+}
