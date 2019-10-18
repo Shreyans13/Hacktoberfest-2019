@@ -1,0 +1,49 @@
+#include <stdio.h>
+#include <math.h>
+int main(void)
+{
+	long long int x1,x2,x3,x4,y1,y2,y3,y4;
+	int t;
+	scanf("%d",&t);
+	while(t!=0)
+	{
+		t--;
+		scanf("%lld %lld %lld %lld %lld %lld %lld %lld",&x1,&y1,&x2,&y2,&x3,&y3,&x4,&y4);
+		double s =0;
+		double t =0;
+		if(((x2-x1)*(y3-y4) - (y2-y1)*(x3-x4)) != 0)
+	        {
+			double s = -1*((double)((x3-x4)*(y3-y1))-((y3-y4)*(x3-x1)))/((x2-x1)*(y3-y4) - (y2-y1)*(x3-x4));
+			double t= ((double)((x2-x1)*(y3-y1) - ((y2-y1)*(x3-x1))))/((x2-x1)*(y3-y4) - (y2-y1)*(x3-x4));
+			if(s>=0 && s<=1 && t>=0 && t<=1)
+				printf("Yes\n");
+			else
+				printf("No\n");
+		}
+		else 
+		{
+			if((x3-x4)*(y3-y1) - (y3-y4)*(x3-x1) == 0 || (x2-x1)*(y3-y1) - (y2-y1)*(x3-x1)==0)
+			{
+				if((x1<=x3 && x1>=x4) || (x1<=x4 && x1>=x3) || (x2<=x3 && x2>=x4) || (x2<=x4 && x2>=x3) || (x1<=x3 && x1<=x4 && x2>=x3 && x2>=x4) || (x2<=x3 && x2<=x4 && x2>=x3 && x2>=x4))
+				{
+				if((y1<=y3 && y1>=y4) || (y1<=y4 && y1>=y3) || (y2<=y3 && y2>=y4) || (y2<=y4 && y2>=y3))
+                                {
+                                        printf("Yes\n");
+                                        continue;
+                                }
+                                else if((y1<=y3 && y2<=y3 && y1>=y4 && y2>=y4) || (y1<=y4 && y2<=y4 && y2>=y3 && y2>=y3) || (y1<=y3 && y1<=y4 && y2>=y3 && y2>=y4 ) || (y2<=y3 && y2<=y4 && y1>=y3 && y1>=y4))
+                                {
+                                        printf("Yes\n");
+                                        continue;
+                                }
+				}
+				printf("No\n");
+				
+			}
+
+			else
+				printf("No\n");
+		}
+	}
+	return 0;
+}
