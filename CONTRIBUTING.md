@@ -111,9 +111,14 @@
 ### AurumnPegasus
 - Github: https://github.com/AurumnPegasus
 
+### Jared Zengo
+- Github: https://github.com/jjz13744
 
-### AmanKumar Keshu
+### amankumarkeshu
 - Github: https://github.com/amankumarkeshu
+
+### animeshsahu80
+- Github: https://github.com/animeshsahu80
 
 Happy Contributing!!!!
 Happy Coding!!!
